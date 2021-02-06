@@ -1,0 +1,28 @@
+body{ background-color: rgb(239, 227, 243);}
+
+#text{
+
+    font-family: pragmatapro-fraktur, serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+font-size: 50px;
+color: palevioletred; 
+
+
+
+
+}
+
+
+#mybutton{ padding-top: 2em;
+    padding-right: 2em;
+    padding-left: 2em;
+    padding-bottom: 2em;
+
+#sentence{ color: rgb(156, 43, 81); 
+font-size: 30px;}
+
+
